@@ -82,15 +82,49 @@
           <!-- 搜索结果 -->
           <div class="items">
             <el-card shadow="hover" class="hot-card">
-              鼠标悬浮时显示
+              <div style="width:80px;height: 90px;margin: 0 auto;">
+                <img src="//www.lgstatic.com/thumbnail_200x200/i/image/M00/95/C7/Cgp3O1ib47SARaD_AAAReZn2oqM588.png" alt="公司logo" width="80" height="80">
+              </div>
+              <div>
+                <div style="width: 70px;margin:0 auto;" >哔哩哔哩</div>
+                <div style="font-size: 13px;margin: 0 auto;width: 85px;padding-top:10px;">在招岗位: 270</div>
+                <div style="font-size: 13px;margin: 0 auto;width: 230px;padding-top:10px;">音频|视频媒体/上市公司/2000人以上</div>
+                <div style="font-size: 13px;margin: 0 auto;width: 210px;padding-top:10px;">bilibili中国年轻人聚集的文化社区</div>
+              </div>
             </el-card>
             <el-card shadow="hover" class="hot-card">
-              鼠标悬浮时显示
-            </el-card>            <el-card shadow="hover" class="hot-card">
-            鼠标悬浮时显示
-          </el-card>            <el-card shadow="hover" class="hot-card">
-            鼠标悬浮时显示
-          </el-card>
+              <div style="width:80px;height: 90px;margin: 0 auto;">
+                <img src="//www.lgstatic.com/thumbnail_200x200/i/image/M00/95/C7/Cgp3O1ib47SARaD_AAAReZn2oqM588.png" alt="公司logo" width="80" height="80">
+              </div>
+              <div>
+                <div style="width: 70px;margin:0 auto;" >哔哩哔哩</div>
+                <div style="font-size: 13px;margin: 0 auto;width: 85px;padding-top:10px;">在招岗位: 270</div>
+                <div style="font-size: 13px;margin: 0 auto;width: 230px;padding-top:10px;">音频|视频媒体/上市公司/2000人以上</div>
+                <div style="font-size: 13px;margin: 0 auto;width: 210px;padding-top:10px;">bilibili中国年轻人聚集的文化社区</div>
+              </div>
+            </el-card>
+            <el-card shadow="hover" class="hot-card">
+              <div style="width:80px;height: 90px;margin: 0 auto;">
+                <img src="//www.lgstatic.com/thumbnail_200x200/i/image/M00/95/C7/Cgp3O1ib47SARaD_AAAReZn2oqM588.png" alt="公司logo" width="80" height="80">
+              </div>
+              <div>
+                <div style="width: 70px;margin:0 auto;" >哔哩哔哩</div>
+                <div style="font-size: 13px;margin: 0 auto;width: 85px;padding-top:10px;">在招岗位: 270</div>
+                <div style="font-size: 13px;margin: 0 auto;width: 230px;padding-top:10px;">音频|视频媒体/上市公司/2000人以上</div>
+                <div style="font-size: 13px;margin: 0 auto;width: 210px;padding-top:10px;">bilibili中国年轻人聚集的文化社区</div>
+              </div>
+            </el-card>
+            <el-card shadow="hover" class="hot-card">
+              <div style="width:80px;height: 90px;margin: 0 auto;">
+                <img src="//www.lgstatic.com/thumbnail_200x200/i/image/M00/95/C7/Cgp3O1ib47SARaD_AAAReZn2oqM588.png" alt="公司logo" width="80" height="80">
+              </div>
+              <div>
+                <div style="width: 70px;margin:0 auto;" >哔哩哔哩</div>
+                <div style="font-size: 13px;margin: 0 auto;width: 85px;padding-top:10px;">在招岗位: 270</div>
+                <div style="font-size: 13px;margin: 0 auto;width: 230px;padding-top:10px;">音频|视频媒体/上市公司/2000人以上</div>
+                <div style="font-size: 13px;margin: 0 auto;width: 210px;padding-top:10px;">bilibili中国年轻人聚集的文化社区</div>
+              </div>
+            </el-card>
           </div>
         </el-main>
 
