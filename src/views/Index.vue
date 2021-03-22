@@ -89,8 +89,6 @@
                   </el-card>
 
             </el-tab-pane>
-            <el-tab-pane label="24Hour热门" name="2">24Hour热门</el-tab-pane>
-            <el-tab-pane label="最新职位" name="3">最新职位</el-tab-pane>
           </el-tabs>
 
         </div>
